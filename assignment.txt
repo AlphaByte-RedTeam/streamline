@@ -1,0 +1,1 @@
+Tugas1 (6PTI1): Buatlah line chart dari data frame yang dibuat manual
